@@ -1,0 +1,115 @@
+span{
+    color: rgb(255, 11, 11);
+}
+    
+    
+    
+    body{
+    margin: 0;
+    position: absolute;
+    left: 110px;
+    border: 2px solid;
+    }
+
+    .first{
+        position: absolute;
+        left: 200px;
+
+    }
+    .lastName{
+        position: absolute;
+        top: 40px;
+        left: 200px;
+    }
+
+    h6{
+        margin-top: 0;
+    }
+
+    .email{
+        width: 350px;
+        height: 15px;
+        
+    }
+    .veryUnstatisfied{
+        position: absolute;
+        top: 237px;
+        left: 195px;
+
+    }
+
+    .Unstatisfied{
+        position: absolute;
+        top: 237px;
+        left: 320px;
+
+    }
+
+    .Neutral{
+        position: absolute;
+        top: 237px;
+        left: 408px;
+
+
+    }
+
+    .Statisfied{
+        position: absolute;
+        top: 237px;
+        left: 468px;
+
+    }
+
+    .VeryStatisfied{
+        position: absolute;
+        top: 237px;
+        left: 538px;
+
+
+    }
+
+
+    .veryUnstatisfied1{
+        position: absolute;
+        top: 358px;
+        left: 195px;
+
+    }
+
+    .Unstatisfied1{
+        position: absolute;
+        top: 358px;
+        left: 320px;
+
+    }
+
+    .Neutral1{
+        position: absolute;
+        top: 358px;
+        left: 408px;
+
+
+    }
+
+    .Statisfied1{
+        position: absolute;
+        top: 358px;
+        left: 468px;
+
+    }
+
+    .VeryStatisfied1{
+        position: absolute;
+        top: 358px;
+        left: 538px;
+
+
+    }
+
+
+    .div1{
+        background-color: aqua;
+    }
+
+
+    
